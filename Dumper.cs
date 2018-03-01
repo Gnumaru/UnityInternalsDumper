@@ -1,3 +1,5 @@
+using UnityEditor;
+
 public static class _MenuItems_ {
 	/// <summary>
 	/// Dumps info for all public methods of all public classes from UnityEngineInternal and UnityEditorInternal namespaces
